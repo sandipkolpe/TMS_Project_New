@@ -55,6 +55,7 @@ public class BaseClass {
 	System.out.println("Test Commit");
 	System.out.println("Test Latest changes");
 	System.out.println("Test Latest changes");
+	System.out.println("Test Latest changes");
 	}
 }
 
